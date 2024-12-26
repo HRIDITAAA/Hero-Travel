@@ -1,0 +1,89 @@
+.box {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.box-1 {
+    color: #FF5400;
+}
+
+.box-1 a {
+    color: #FF5400;
+}
+
+.box-2 a {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    margin-left: 70px;
+}
+
+.image {
+    text-align: center;
+    background-image: url(../public/Group\ 13\ \(1\)\ \(1\).png);
+
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 100% 100%;
+}
+
+.box-3 {
+    margin: 2% 15%;
+}
+
+.box-4 button {
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    border: 6px solid white;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+
+.box-5 {
+    color: #FFFFFF;
+}
+
+.Read-1 {
+    display: flex;
+}
+
+div.box-4 {
+    margin: 50px 260px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    border-radius: 5%;
+
+}
+
+.box-5 {
+    font-size: 50px;
+    color: #FFFFFF;
+    padding-top: 140px;
+}
+
+.Read button {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #FF5400;
+    border: none;
+    color: #FFFFFF;
+}
+
+.box-6 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Diam {
+    text-align: center;
+}
+
+.Diam-1 {
+    background-color: lightgray;
+    padding: 6%;
+}
