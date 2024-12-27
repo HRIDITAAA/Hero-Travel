@@ -74,10 +74,98 @@ div.box-4 {
     color: #FFFFFF;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.item4 {
+    grid-column: 2 / 1;
+}
+
 .box-6 {
     display: flex;
     justify-content: space-between;
 }
+
+.risus {
+    background-color: lightgoldenrodyellow;
+    padding: 4%;
+    border-radius: 10px;
+}
+
+.risus-1 {
+    background-color: lightcyan;
+    padding: 4%;
+    border-radius: 5px;
+}
+
+.risus-2 {
+    background-color: lightgoldenrodyellow;
+    padding: 4%;
+    border-radius: 10px;
+    width: 420px;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+
+.Tour {
+    background-image: url(../public/Group\ 39.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: 100% 100%;
+}
+
+.Tour-1 {
+    position: relative;
+    left: 460px;
+    top: 50px;
+    padding: 20px 50px;
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.Tour-2 {
+    background-image: url(../public/Group\ 40.png);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: 100% 100%;
+}
+
+.Tour-3 {
+    position: relative;
+    left: 80px;
+    top: 60px;
+    padding: 20px 50px;
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.See button {
+    height: 40px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+.See-1 button {
+    height: 40px;
+    width: 290px;
+    background-color: #FF5400;
+    border: none;
+    color: white;
+    border-radius: 6px;
+
+}
+
 
 .Diam {
     text-align: center;
@@ -86,4 +174,8 @@ div.box-4 {
 .Diam-1 {
     background-color: lightgray;
     padding: 6%;
+}
+
+.Diam-2 {
+    margin-left: 42%;
 }
