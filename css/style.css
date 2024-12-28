@@ -51,6 +51,34 @@
     display: flex;
 }
 
+
+.desh {
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 190px;
+    color: white;
+
+}
+
+.desh-1 {
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 100px;
+    color: white;
+
+}
+
+.desh-2 {
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 280px;
+    color: white;
+    background-color: #FF5400;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+
+
 div.box-4 {
     margin: 50px 260px;
     background-color: white;
