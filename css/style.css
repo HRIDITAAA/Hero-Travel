@@ -53,8 +53,8 @@
 
 div.box-4 {
     margin: 50px 260px;
-    background-color: #ffffff;
-    opacity: 0.6;
+    background-color: white;
+    opacity: 0.9;
     border-radius: 5%;
 
 }
@@ -72,15 +72,6 @@ div.box-4 {
     background-color: #FF5400;
     border: none;
     color: #FFFFFF;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
-}
-
-.item4 {
-    grid-column: 2 / 1;
 }
 
 .box-6 {
@@ -147,6 +138,12 @@ div.box-4 {
     height: 250px;
     opacity: 0.9;
     border-radius: 10px;
+}
+
+.Sign {
+    border: 2px solid #f99b6c;
+    border-radius: 5px;
+    padding: 2% 7%;
 }
 
 .See button {
