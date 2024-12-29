@@ -1,0 +1,106 @@
+.image {
+    text-align: center;
+    background-image: url(../public/Group\ 13\ \(1\)\ \(1\).png);
+
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+
+.box-2 a {
+    display: block;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.box-5 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.box-6 {
+    display: block;
+
+}
+
+.box-3 {
+    margin: 7% 15%;
+}
+
+.Read-5 button {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #FF5400;
+    border: none;
+    color: #FFFFFF;
+    margin-left: 120px;
+}
+
+.risus-2 {
+    background-color: lightgoldenrodyellow;
+    padding: 4%;
+    border-radius: 10px;
+    width: 310px;
+    margin-left: 2px;
+    margin-top: 40px;
+}
+
+.image-1 img {
+    width: 400px;
+}
+
+.box-4 button {
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    border: 6px solid white;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+
+div.box-4 {
+    margin: 5px 40px;
+    margin-top: -50px;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 5%;
+}
+
+.Tour-1 {
+    position: relative;
+    left: 100px;
+    top: 50px;
+    padding: 20px 50px;
+    background-color: white;
+    width: 100px;
+    height: 270px;
+    opacity: 0.9;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.Tour-3 {
+    position: relative;
+    left: 100px;
+    top: 50px;
+    padding: 20px 50px;
+    background-color: white;
+    width: 100px;
+    height: 270px;
+    opacity: 0.9;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.desh-2 {
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 200px;
+    color: white;
+    background-color: #FF5400;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
