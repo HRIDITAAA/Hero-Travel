@@ -13,9 +13,9 @@
 
 .box-2 a {
     display: flex;
-    justify-content: space-around;
+    dd justify-content: space-around;
     text-decoration: none;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 
 .image {
